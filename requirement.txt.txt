@@ -1,0 +1,20 @@
+# ----------------------------------------
+# Superstore Sales Analysis (PostgreSQL)
+# Project Requirements
+# ----------------------------------------
+
+# Database
+PostgreSQL >= 14
+
+# Recommended Client Tools
+pgAdmin 4
+psql (PostgreSQL Shell)
+
+# Dataset
+Sample_Superstore.csv (from Kaggle)
+
+# Encoding
+WIN1252 (used while importing CSV)
+
+# Optional
+Any SQL editor that supports PostgreSQL (DBeaver, DataGrip, etc.)
