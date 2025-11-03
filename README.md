@@ -42,9 +42,3 @@ ________________________________________
 •	🔹 Investigate Furniture product returns – potential delivery or quality issues.
 •	🔹 Promote Technology products during peak sales months (Nov–Dec).
 
-👨‍💻 Author
-
-Saad Athar
-Data Analyst | SQL | PostgreSQL | Python
-📧 saadathar72@gmail.com
-
